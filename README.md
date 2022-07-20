@@ -3,6 +3,7 @@
 ### Hi there I'm Ziya. 
 
 ## I'm React | React Native developer
+###  I have more than 2 years of experience. I always try to improve myself in my spare time as much as possible
 
 ### Reach out to me
 
