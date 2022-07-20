@@ -14,17 +14,17 @@
 
 ### Tech I use
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="50" height="50">
-<img src="https://progsoft.net/images/tailwind-css-icon-70187f0341bd945dc65ad050a9a1b8f4fd79b1cf.png" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="border-radius:50%" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="border-radius:50%" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50" height="50">
-<img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" width="50" style="border-radius:50%" height="50">
-<img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" width="80" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" style="border-radius:50%" width="50" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left" width="50" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left" width="50" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" align="left" width="50" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" align="left" width="50" height="50">
+<img src="https://progsoft.net/images/tailwind-css-icon-70187f0341bd945dc65ad050a9a1b8f4fd79b1cf.png" align="left" width="50" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" align="left" style="border-radius:50%" width="50" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left" style="border-radius:50%" width="50" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" align="left" width="50" height="50">
+<img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" align="left" width="50" style="border-radius:50%" height="50">
+<img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" align="left" width="80" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" align="left" style="border-radius:50%" width="50" height="50">
 
 <br/>
 <br/>
